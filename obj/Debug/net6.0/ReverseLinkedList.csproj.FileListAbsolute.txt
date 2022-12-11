@@ -1,0 +1,15 @@
+C:\Users\Mhamz\source\repos\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.exe
+C:\Users\Mhamz\source\repos\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.deps.json
+C:\Users\Mhamz\source\repos\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.runtimeconfig.json
+C:\Users\Mhamz\source\repos\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.dll
+C:\Users\Mhamz\source\repos\ReverseLinkedList\bin\Debug\net6.0\ReverseLinkedList.pdb
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.csproj.AssemblyReference.cache
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.AssemblyInfo.cs
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.dll
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\refint\ReverseLinkedList.dll
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.pdb
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ReverseLinkedList.genruntimeconfig.cache
+C:\Users\Mhamz\source\repos\ReverseLinkedList\obj\Debug\net6.0\ref\ReverseLinkedList.dll
