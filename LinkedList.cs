@@ -96,32 +96,34 @@ namespace ReverseLinkedList
         {
             return count == 0;
         }
-        public LinkedList<t> reverse()
+
+        
+        public LinkedList<t> reverse()//this method reveses the linked list
         {
-            if (!this.IsEmpty())
+            if (!this.IsEmpty())//checks if the list is empty or not
             {
-                LinkedList<t> reversedList = new LinkedList<t>();
-                Node<t>? tempNode = this.head,newNode;
-                while(tempNode != null)
+                LinkedList<t> reversedList = new LinkedList<t>();//initializes a new list to store a reversed list
+                Node<t>? tempNode = this.head;//Object that stores the current node of the list
+                Node<t>? newNode;//Object that stores the new node of the reversed list
+                while (tempNode != null)//while runs till the tempNode reaches the end of the list
                 {
-                    newNode = new Node<t>(tempNode.Data);
-                    newNode.Next = reversedList.head;
-                    reversedList.head = newNode;
-                    tempNode = tempNode.Next;
+                    newNode = new Node<t>(tempNode.Data);//make a new node to be added to the reversed list
+                    newNode.Next = reversedList.head;//appends the previous list to the end of the new node
+                    reversedList.head = newNode;//makes the new node the head of the reversed list
+                    tempNode = tempNode.Next;//moves to the next node
                    
                 }
                 
-
-                return reversedList;
+                return reversedList;//returns the reversed list
 
             }
-            else
+            else//executes if the list is empty
             {
-                Console.WriteLine("The list is currently empty");
+                Console.WriteLine("The list is currently empty");//error message
             }
             
 
-            return this;
+            return this;//return the same list if the given list is empty
         }
         
         
